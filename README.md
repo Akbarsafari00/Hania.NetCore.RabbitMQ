@@ -1,0 +1,1 @@
+"# Hania.NetCore.RabbitMQ" 
